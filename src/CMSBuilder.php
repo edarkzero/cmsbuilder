@@ -1,6 +1,6 @@
 <?php
 
-namespace ECardona\CMSBuilder;
+namespace Edarkzero\CMSBuilder;
 
 class CMSBuilder
 {

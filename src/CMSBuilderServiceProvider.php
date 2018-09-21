@@ -1,6 +1,6 @@
 <?php
 
-namespace ECardona\CMSBuilder;
+namespace Edarkzero\CMSBuilder;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,8 +13,8 @@ class CMSBuilderServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'ecardona');
-        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'ecardona');
+        // $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'edarkzero');
+        // $this->loadViewsFrom(__DIR__.'/../resources/views', 'edarkzero');
         // $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
         // $this->loadRoutesFrom(__DIR__.'/routes.php');
 
@@ -28,17 +28,17 @@ class CMSBuilderServiceProvider extends ServiceProvider
 
             // Publishing the views.
             /*$this->publishes([
-                __DIR__.'/../resources/views' => base_path('resources/views/vendor/ecardona'),
+                __DIR__.'/../resources/views' => base_path('resources/views/vendor/edarkzero'),
             ], 'cmsbuilder.views');*/
 
             // Publishing assets.
             /*$this->publishes([
-                __DIR__.'/../resources/assets' => public_path('vendor/ecardona'),
+                __DIR__.'/../resources/assets' => public_path('vendor/edarkzero'),
             ], 'cmsbuilder.views');*/
 
             // Publishing the translation files.
             /*$this->publishes([
-                __DIR__.'/../resources/lang' => resource_path('lang/vendor/ecardona'),
+                __DIR__.'/../resources/lang' => resource_path('lang/vendor/edarkzero'),
             ], 'cmsbuilder.views');*/
 
             // Registering package commands.

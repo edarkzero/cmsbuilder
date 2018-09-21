@@ -44,14 +44,14 @@ If you discover any security related issues, please email edgarcardona87@gmail.c
 
 MIT license. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/ecardona/cmsbuilder.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/ecardona/cmsbuilder.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/ecardona/cmsbuilder/master.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/edarkzero/cmsbuilder.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/edarkzero/cmsbuilder.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/edarkzero/cmsbuilder/master.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/12345678/shield
 
-[link-packagist]: https://packagist.org/packages/ecardona/cmsbuilder
-[link-downloads]: https://packagist.org/packages/ecardona/cmsbuilder
-[link-travis]: https://travis-ci.org/ecardona/cmsbuilder
+[link-packagist]: https://packagist.org/packages/edarkzero/cmsbuilder
+[link-downloads]: https://packagist.org/packages/edarkzero/cmsbuilder
+[link-travis]: https://travis-ci.org/edarkzero/cmsbuilder
 [link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/ecardona
+[link-author]: https://github.com/edarkzero
 [link-contributors]: ../../contributors]

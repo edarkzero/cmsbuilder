@@ -1,6 +1,6 @@
 <?php
 
-// Available placeholders: ECardona, CMSBuilder, ecardona, cmsbuilder
+// Available placeholders: Edarkzero, CMSBuilder, edarkzero, cmsbuilder
 return [
     'src/MyPackage.php' => 'src/CMSBuilder.php',
     'config/mypackage.php' => 'config/cmsbuilder.php',

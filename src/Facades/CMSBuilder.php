@@ -1,6 +1,6 @@
 <?php
 
-namespace ECardona\CMSBuilder\Facades;
+namespace Edarkzero\CMSBuilder\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

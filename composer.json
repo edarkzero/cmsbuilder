@@ -6,10 +6,10 @@
         {
             "name": "Edgar Orlando Cardona Hernandez",
             "email": "edgarcardona87@gmail.com",
-            "homepage": "www.cardonait.com"
+            "homepage": "http://www.cardonait.com"
         }
     ],
-    "homepage": "https://github.com/edarkzero/cmsbuilder",
+    "homepage": "https://github.com/edarkzero/cmsbuilder/",
     "keywords": ["Laravel", "CMSBuilder"],
     "require": {
         "illuminate/support": "~5"
@@ -20,21 +20,21 @@
     },
     "autoload": {
         "psr-4": {
-            "ECardona\\CMSBuilder\\": "src/"
+            "Edarkzero\\CMSBuilder\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ECardona\\CMSBuilder\\Tests\\": "tests"
+            "Edarkzero\\CMSBuilder\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ECardona\\CMSBuilder\\CMSBuilderServiceProvider"
+                "Edarkzero\\CMSBuilder\\CMSBuilderServiceProvider"
             ],
             "aliases": {
-                "CMSBuilder": "ECardona\\CMSBuilder\\Facades\\CMSBuilder"
+                "CMSBuilder": "Edarkzero\\CMSBuilder\\Facades\\CMSBuilder"
             }
         }
     }
