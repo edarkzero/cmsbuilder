@@ -1,0 +1,41 @@
+{
+    "name": "ecardona/cmsbuilder",
+    "description": ":description",
+    "license": "MIT license",
+    "authors": [
+        {
+            "name": "Edgar Orlando Cardona Hernandez",
+            "email": "edgarcardona87@gmail.com",
+            "homepage": "www.cardonait.com"
+        }
+    ],
+    "homepage": "https://github.com/ecardona/cmsbuilder",
+    "keywords": ["Laravel", "CMSBuilder"],
+    "require": {
+        "illuminate/support": "~5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0",
+        "orchestra/testbench": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ECardona\\CMSBuilder\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ECardona\\CMSBuilder\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ECardona\\CMSBuilder\\CMSBuilderServiceProvider"
+            ],
+            "aliases": {
+                "CMSBuilder": "ECardona\\CMSBuilder\\Facades\\CMSBuilder"
+            }
+        }
+    }
+}
