@@ -61,4 +61,4 @@ MIT license. Please see the [license file](license.md) for more information.
 [link-travis]: https://travis-ci.org/edarkzero/cmsbuilder
 [link-styleci]: https://github.styleci.io/repos/149793223
 [link-author]: https://github.com/edarkzero
-[link-contributors]: ../../contributors]
+[link-contributors]: ../../contributors
