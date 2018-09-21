@@ -5,7 +5,14 @@
 [![Build Status][ico-travis]][link-travis]
 [![StyleCI][ico-styleci]][link-styleci]
 
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
+**Build your website pages with this complete CMS builder, where you can add multiple dynamic fields or add you own fields**
+
+This package was intended for laravel 5.7 and PHP 7.2.
+
+Maybe is compatible with later not major versions of PHP or Laravel.
+
+
+Take a look at [contributing.md](contributing.md) to see a to do list.
 
 ## Installation
 
@@ -24,7 +31,7 @@ Please see the [changelog](changelog.md) for more information on what has change
 ## Testing
 
 ``` bash
-$ composer test
+$ php vendor/phpunit/phpunit/phpunit --no-configuration --filter "USE_REGEXP_TO_FIND_METHOD" FILE_NAMESPACE FULL_FILE_PATH
 ```
 
 ## Contributing
