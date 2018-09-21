@@ -47,11 +47,11 @@ MIT license. Please see the [license file](license.md) for more information.
 [ico-version]: https://img.shields.io/packagist/v/edarkzero/cmsbuilder.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/edarkzero/cmsbuilder.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/edarkzero/cmsbuilder/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/12345678/shield
+[ico-styleci]: https://github.styleci.io/repos/149793223/shield
 
 [link-packagist]: https://packagist.org/packages/edarkzero/cmsbuilder
 [link-downloads]: https://packagist.org/packages/edarkzero/cmsbuilder
 [link-travis]: https://travis-ci.org/edarkzero/cmsbuilder
-[link-styleci]: https://styleci.io/repos/12345678
+[link-styleci]: https://github.styleci.io/repos/149793223
 [link-author]: https://github.com/edarkzero
 [link-contributors]: ../../contributors]
