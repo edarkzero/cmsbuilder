@@ -1,5 +1,5 @@
 {
-    "name": "ecardona/cmsbuilder",
+    "name": "edarkzero/cmsbuilder",
     "description": ":description",
     "license": "MIT license",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "www.cardonait.com"
         }
     ],
-    "homepage": "https://github.com/ecardona/cmsbuilder",
+    "homepage": "https://github.com/edarkzero/cmsbuilder",
     "keywords": ["Laravel", "CMSBuilder"],
     "require": {
         "illuminate/support": "~5"
